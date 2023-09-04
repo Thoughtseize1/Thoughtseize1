@@ -10,9 +10,11 @@
 
 And there will be plenty more in the future...
 - 🌍 I'm based in Krakow, Poland
+- 🎓 I obtained a Master's degree in Computer Science from the Ukrainian State University of Science and Technologies.
+- 🎯 My current focus is on learning Machine Learning (ML), Artificial Intelligence (AI), and React.
 - 📨 You can contact me at  [mykyta.sherstianykh@gmail.com](mailto:mykyta.sherstianykh@gmail.com)
-- 🧠 I'm learning ML, AI, React.
 - 🤝🏻 I'm open to collaborating on exciting projects.
+
 ## **📲Connect with me:**
 
 <table>
