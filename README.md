@@ -1,7 +1,6 @@
 <img src="https://raw.githubusercontent.com/Thoughtseize1/Thoughtseize1/main/icons/1.png" alt="my banner">
 
-# Hello World!  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to My GitHub Chronicles 🚀
-
+# Hello World! 👋 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to My GitHub Chronicles 🚀
 
 
 <img src="https://badgen.net/badge/icon/My Active Tech Stack:?color=green&icon=codacy&label" width="300" height="50"> 
