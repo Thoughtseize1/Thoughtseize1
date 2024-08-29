@@ -25,9 +25,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
-And there will be plenty more in the future...
-- 🌍 I'm based in Krakow, Poland.
+- 🌍 Based in Krakow, Poland.
 - 🎓 I obtained a Bachelor's and Master's degree in Computer Science from the Ukrainian State University of Science and Technologies.
 - 🎯 My current focus is on learning Machine Learning (ML), Artificial Intelligence (AI), and Cloud Platforms.
 - 📨 You can contact me at  [mykyta.sherstianykh@gmail.com](mailto:mykyta.sherstianykh@gmail.com)
