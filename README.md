@@ -37,10 +37,10 @@
 <td> 
 <li> <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/linkedin-icon.svg" width="24" height="24"> <a href="https://www.linkedin.com/in/nsherstianykh/">LinkedIn</a> 
 </li> 
-<li> <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/telegram.svg" width="24" height="24"> <a href="https://t.me/thoughtseize">Telegram</a> 
-</li>
  <li> <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/whatsapp.svg" width="24" height="24"> <a href="https://wa.me/+48883147362">WhatsApp</a>
   </li> 
+<li> <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/telegram.svg" width="24" height="24"> <a href="https://t.me/thoughtseize">Telegram</a> 
+</li>
  </ul>
  </td> 
  <td style="padding-left: 20px;"> 
