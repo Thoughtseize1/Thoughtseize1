@@ -2,17 +2,19 @@
 
 # Python Software Engineer · AI & Cloud
 
-I build Python software, AI integrations, and automation that connects tools and services. My focus is on practical AI tooling and cloud platforms, backed by hands-on experience with APIs, data, and developer tools.
+I build production LLM applications and cloud services in Python. Currently a Software Engineer at EPAM Systems; previously at SoftServe, working on AI assistants, RAG pipelines, and cloud integrations.
 
-[LinkedIn](https://www.linkedin.com/in/nsherstianykh/) · [Email](mailto:mykyta.sherstianykh@gmail.com) · [Telegram](https://t.me/thoughtseize)
+[LinkedIn](https://www.linkedin.com/in/mykytasherstianykh/) · [Email](mailto:mykyta.sherstianykh@gmail.com) · [Telegram](https://t.me/thoughtseize)
 
-## Where I focus
+## Engineering focus
 
-- **AI & integrations** — MCP servers, model-powered workflows, and generative media tooling.
-- **Cloud & automation** — connecting services and turning repetitive work into reusable tools.
-- **Software engineering** — Python APIs, asynchronous workflows, and data-backed applications.
+- **LLM systems** — AI assistants, RAG pipelines, and agent workflows with LangChain, OpenAI, and Anthropic models.
+- **Cloud engineering** — asynchronous Python APIs, microservices, and integrations across AWS and Google Cloud.
+- **Reliability & delivery** — LLM evaluation, prompt and pipeline optimization, usage analytics, and automated testing.
 
-## Selected work
+[Claude Certified Architect – Foundations](https://verify.skilljar.com/c/7snw64uqqvyx) · Anthropic · May 2026
+
+## Public projects
 
 ### [Higgsfield MCP](https://github.com/Thoughtseize1/Claude_higgsfield_mcp)
 
@@ -42,10 +44,11 @@ A Python client and server for listing and downloading files over gRPC, with con
 
 | Area | Technologies |
 | :--- | :--- |
-| AI & integration | MCP · Claude Code · Higgsfield |
-| Python & APIs | Python · FastAPI · asyncio · gRPC |
-| Data | PostgreSQL · Redis · SQLAlchemy |
-| Cloud & delivery | Google Cloud · Docker · Linux · Git |
+| AI & integration | LangChain · RAG · AI agents · OpenAI · Anthropic · MCP |
+| Python & APIs | Python · FastAPI · asyncio · REST · GraphQL · gRPC |
+| Data & search | PostgreSQL · SQLAlchemy · MongoDB · Redis · Elasticsearch |
+| Cloud | AWS (ECS, Lambda, S3, DynamoDB) · Google Cloud |
+| Delivery & quality | Docker · GitHub Actions · Pytest · Git |
 
 ---
 
@@ -53,4 +56,4 @@ A Python client and server for listing and downloading files over gRPC, with con
 
 BSc & MSc in Computer Science · Ukrainian State University of Science and Technologies
 
-Interested in Python, AI tooling, and cloud engineering? [Let's connect on LinkedIn.](https://www.linkedin.com/in/nsherstianykh/)
+Interested in Python, AI tooling, and cloud engineering? [Let's connect on LinkedIn.](https://www.linkedin.com/in/mykytasherstianykh/)
