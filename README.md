@@ -1,62 +1,56 @@
-<img src="https://raw.githubusercontent.com/Thoughtseize1/Thoughtseize1/main/icons/1.png" alt="my banner">
+![Mykyta Sherstianykh — Software Engineer. Python / AI / Cloud.](./assets/profile-banner.jpg)
 
-# Hello World!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to My GitHub Chronicles 🚀
+# Python Software Engineer · AI & Cloud
 
+I build Python software, AI integrations, and automation that connects tools and services. My focus is on practical AI tooling and cloud platforms, backed by hands-on experience with APIs, data, and developer tools.
 
-<img src="https://badgen.net/badge/icon/My Active Tech Stack:?color=green&icon=codacy&label" width="300" height="50"> 
+[LinkedIn](https://www.linkedin.com/in/nsherstianykh/) · [Email](mailto:mykyta.sherstianykh@gmail.com) · [Telegram](https://t.me/thoughtseize)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI Badge](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+## Where I focus
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- **AI & integrations** — MCP servers, model-powered workflows, and generative media tooling.
+- **Cloud & automation** — connecting services and turning repetitive work into reusable tools.
+- **Software engineering** — Python APIs, asynchronous workflows, and data-backed applications.
 
-- 🌍 Based in Krakow, Poland.
-- 🎓 I obtained a Bachelor's and Master's degree in Computer Science from the Ukrainian State University of Science and Technologies.
-- 🎯 My current focus is on learning Machine Learning (ML), Artificial Intelligence (AI), and Cloud Platforms.
-- 📨 You can contact me at  [mykyta.sherstianykh@gmail.com](mailto:mykyta.sherstianykh@gmail.com)
-<!--- 🤝🏻 -->
+## Selected work
 
-## **📲Connect with me:**
+### [Higgsfield MCP](https://github.com/Thoughtseize1/Claude_higgsfield_mcp)
 
-<table>
-<td> 
-<li> <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/linkedin-icon.svg" width="24" height="24"> <a href="https://www.linkedin.com/in/nsherstianykh/">LinkedIn</a> 
-</li> 
- <li> <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/whatsapp.svg" width="24" height="24"> <a href="https://wa.me/+48883147362">WhatsApp</a>
-  </li> 
-<li> <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/telegram.svg" width="24" height="24"> <a href="https://t.me/thoughtseize">Telegram</a> 
-</li>
- </ul>
- </td> 
- <td style="padding-left: 20px;"> 
-<img src="https://raw.githubusercontent.com/Thoughtseize1/Thoughtseize1/main/icons/me(2).png" width="50%">
+A Python MCP server connecting Claude Code with Higgsfield image and video generation workflows. Includes job tracking, batch generation, and local output handling.
 
-<!--
-Here are some ideas to get you started:
+`Python` `MCP` `AI tooling` `asyncio`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- -   🖥️ See my portfolio at  [danielcranney.com](http://danielcranney.com/)
-- -   🚀 I'm currently working on  [Smylo.co](http://smylo.co/),  [ColorHub.app](http://colorhub.app/)  and  [ProfileMe.dev](http://profileme.dev/)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Social Network API](https://github.com/Thoughtseize1/social_network_API)
+
+A social API with JWT authentication, posts, likes, and daily activity analytics. A configurable bot exercises the user flows end to end.
+
+`FastAPI` `PostgreSQL` `JWT` `Automation`
+
+### [File System Insight Tool](https://github.com/Thoughtseize1/File_System_Insight_Tool)
+
+A command-line tool for exploring disk usage, grouping files by type, finding large files, and inspecting unusual permissions.
+
+`Python` `CLI` `File systems`
+
+### [gRPC File Exchange](https://github.com/Thoughtseize1/simple_gRPC-server)
+
+A Python client and server for listing and downloading files over gRPC, with configurable paths and hidden-file support.
+
+`Python` `gRPC` `Client–server`
+
+## Toolkit
+
+| Area | Technologies |
+| :--- | :--- |
+| AI & integration | MCP · Claude Code · Higgsfield |
+| Python & APIs | Python · FastAPI · asyncio · gRPC |
+| Data | PostgreSQL · Redis · SQLAlchemy |
+| Cloud & delivery | Google Cloud · Docker · Linux · Git |
+
+---
+
+**Mykyta Sherstianykh** · Kraków, Poland
+
+BSc & MSc in Computer Science · Ukrainian State University of Science and Technologies
+
+Interested in Python, AI tooling, and cloud engineering? [Let's connect on LinkedIn.](https://www.linkedin.com/in/nsherstianykh/)
