@@ -1,4 +1,4 @@
-![Mykyta Sherstianykh — Software Engineer. Python / AI / Cloud.](./assets/profile-banner.jpg)
+![Mykyta Sherstianykh — Software Engineer. Python / AI / Cloud.](./assets/profile-banner-v2.jpg)
 
 # Python Software Engineer · AI & Cloud
 
