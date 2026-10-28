@@ -14,32 +14,6 @@ I build production LLM applications and cloud services in Python. Currently a So
 
 [Claude Certified Architect – Foundations](https://verify.skilljar.com/c/7snw64uqqvyx) · Anthropic · May 2026
 
-## Public projects
-
-### [Higgsfield MCP](https://github.com/Thoughtseize1/Claude_higgsfield_mcp)
-
-A Python MCP server connecting Claude Code with Higgsfield image and video generation workflows. Includes job tracking, batch generation, and local output handling.
-
-`Python` `MCP` `AI tooling` `asyncio`
-
-### [Social Network API](https://github.com/Thoughtseize1/social_network_API)
-
-A social API with JWT authentication, posts, likes, and daily activity analytics. A configurable bot exercises the user flows end to end.
-
-`FastAPI` `PostgreSQL` `JWT` `Automation`
-
-### [File System Insight Tool](https://github.com/Thoughtseize1/File_System_Insight_Tool)
-
-A command-line tool for exploring disk usage, grouping files by type, finding large files, and inspecting unusual permissions.
-
-`Python` `CLI` `File systems`
-
-### [gRPC File Exchange](https://github.com/Thoughtseize1/simple_gRPC-server)
-
-A Python client and server for listing and downloading files over gRPC, with configurable paths and hidden-file support.
-
-`Python` `gRPC` `Client–server`
-
 ## Toolkit
 
 | Area | Technologies |
